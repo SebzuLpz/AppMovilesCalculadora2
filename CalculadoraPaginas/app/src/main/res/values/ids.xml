@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView2" type="id" />
+    <item name="textView3" type="id" />
+    <item name="suma" type="id" />
+    <item name="resta" type="id" />
+    <item name="multi" type="id" />
+    <item name="division" type="id" />
+    <item name="pot" type="id" />
+    <item name="fibo" type="id" />
+    <item name="resultado" type="id" />
+    <item name="numero1" type="id" />
+    <item name="numero2" type="id" />
+    <item name="expo" type="id" />
+    <item name="textView0" type="id" />
+</resources>
